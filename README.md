@@ -19,3 +19,8 @@
 - now to generate reports run - `allure serve <allure_result_foldername>`
 - To view reports you need to have above command running
 - The report will be stored under - ` C:\Users\varan\AppData\Local\Temp\18438650248756657668\allure-report`
+
+### To use Requests module
+- Requests module helps us to work with http methods
+- pip install requests
+- 

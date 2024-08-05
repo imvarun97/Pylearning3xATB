@@ -5,26 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="411b6a19-cfd2-42ef-856d-47d3b6d105a5" name="Changes" comment="My second commit">
-      <change afterPath="$PROJECT_DIR$/Ex_02_July/Lab179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_02_July/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_02_July/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_02_July/test_Lab180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_02_July/test_Lab181.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14072024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14072024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14072024/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/0efe65d1-57c5-4345-801e-46ce20c40e2f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/18f5b10b-d632-4168-b95d-620729643075-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/25c8e436-e31e-4195-a263-4ec3c5aadae5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/511f5a78-f167-4c64-a8a5-d65566331ad0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/5f7fccec-4d68-49e2-ac0a-a367c5321922-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e3e28ac5-4e03-4105-b378-ee24623e83e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/0f8ccc9f-d8f7-4586-b7ed-52c9e8d58f60-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/1f1f4674-4af9-4727-bb5c-7c98071416b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/6e256c2e-b233-4649-b315-3eb5a459a97f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/72cd207a-8384-4be2-b74e-edd1a0d03c6e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/813885ae-94e9-458b-88be-70e4e4329948-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/b3b2c4be-d233-4c78-bead-b156d5df4564-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/c725ea22-a0ca-40dc-811d-1fb696e4a7fc-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_crud/cab5a455-13e2-4906-a442-2d70eea4b849-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/1650da77-2f0c-40b3-89d9-9ee8d2a1fb0d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/219866db-8553-4d16-bb46-1a407635dd5d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/250dc4b4-26b6-4f67-a2e6-31fae45735fe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/9930ba54-159a-4663-a7a0-d802254516b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/9faaf9a7-6f0e-48be-9729-b1543c27a199-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/dbc17cb4-8ae1-4100-9c11-0ae7ff5502c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/allure_result_restful/e66f06af-2490-4897-894b-b6ec542d5c87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/test_Lab183.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/test_Lab184.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_02_July/test_Lab185.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jun/Jun_22/anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_01_Jun/Jun_22/anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jun/Jun_22/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_01_Jun/Jun_22/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jun/Jun_22/star_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_01_Jun/Jun_22/star_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jun/Jun_22/string_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_01_Jun/Jun_22/string_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jun/Jun_22/vowels and consonents.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_01_Jun/Jun_22/vowels and consonents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_02_July/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/0efe65d1-57c5-4345-801e-46ce20c40e2f-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_02_July/allure_result/0efe65d1-57c5-4345-801e-46ce20c40e2f-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/18f5b10b-d632-4168-b95d-620729643075-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_02_July/allure_result/18f5b10b-d632-4168-b95d-620729643075-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/25c8e436-e31e-4195-a263-4ec3c5aadae5-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_02_July/allure_result/25c8e436-e31e-4195-a263-4ec3c5aadae5-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/511f5a78-f167-4c64-a8a5-d65566331ad0-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_02_July/allure_result/511f5a78-f167-4c64-a8a5-d65566331ad0-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/5f7fccec-4d68-49e2-ac0a-a367c5321922-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_02_July/allure_result/5f7fccec-4d68-49e2-ac0a-a367c5321922-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_result/e3e28ac5-4e03-4105-b378-ee24623e83e3-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_02_July/allure_result/e3e28ac5-4e03-4105-b378-ee24623e83e3-result.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,6 +83,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Lab183.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
     &quot;Python.anagrams.executor&quot;: &quot;Run&quot;,
@@ -92,11 +104,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\3xATB\Pylearning3xATB\Ex_02_July" />
+      <recent name="M:\3xATB\Pylearning3xATB\" />
       <recent name="M:\3xATB\Pylearning3xATB" />
       <recent name="M:\3xATB\Pylearning3xATB\Jul" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab002">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab183.test_get_single_request_by_id">
     <configuration name="Lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pylearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -133,28 +147,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jun/Jun_22/anagrams.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pylearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jun/Jun_22" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jun/Jun_22/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,13 +199,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab183.test_get_single_request_by_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pylearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_02_July" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab183.test_get_single_request_by_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab183.test_get_single_request_by_id" />
         <item itemvalue="Python.Lab002" />
         <item itemvalue="Python.anagrams" />
         <item itemvalue="Python.vowels and consonents" />
         <item itemvalue="Python.string_reverse" />
-        <item itemvalue="Python.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718812725839</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My second commit">
+      <option name="closed" value="true" />
+      <created>1722160991827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722160991827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
