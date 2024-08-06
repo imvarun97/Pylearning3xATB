@@ -68,4 +68,3 @@ def test_put_request():
 
     data = response.json()
     assert data["firstname"] == 'Varun'
-
